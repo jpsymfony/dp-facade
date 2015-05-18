@@ -1,0 +1,5 @@
+dp_facade:
+    resource: "@DPFacadeBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
